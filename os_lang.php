@@ -33,14 +33,14 @@ $l['no_conf'] = '您尚未输入确认密码。';
 $l['no_match'] = '您的确认密码与新密码不匹配。';
 $l['error_reins'] = '重新安装系统时出现了错误。';
 $l['err_changing'] = '设置密码时出现了错误。';
-$l['err_log_osreinstall'] = '您已经达到了重装系统限制。请联系管理员。';
+$l['err_log_osreinstall'] = '您已经达到了重装系统次数限制。请联系管理员。';
 
 $l['<title>'] = '重装系统';
 $l['reins_os'] = '重装系统';
 $l['os_reinstall'] = '重装';
 $l['new_pass'] = '新密码';
 $l['retype_pass'] = '确认密码';
-$l['done'] = '系统成功重新安装。';
+$l['done'] = '系统重新安装成功。';
 $l['reins_notify'] = '正在重新安装VPS系统……';
 
 // OS Info Languages
